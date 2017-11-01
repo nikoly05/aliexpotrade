@@ -1,0 +1,734 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aliexpotrade.com" resolutions="1x" timestamp="1509495050691">
+  <folder name="css">
+    <file name="site_global.css" crc="3915731204"/>
+    <file name="master_a-about.css" crc="322129300" ref="about"/>
+    <file name="nomq_preview_master_a-about.css" crc="3766122947" ref="about"/>
+    <file name="master_------b-gas-oil.css" crc="3839444335" ref="gas-oil-diesel"/>
+    <file name="nomq_preview_master_------b-gas-oil.css" crc="4125739403" ref="gas-oil-diesel"/>
+    <file name="master_d-global-export.css" crc="288236181" ref="export-destinations"/>
+    <file name="nomq_preview_master_d-global-export.css" crc="32159376" ref="export-destinations"/>
+    <file name="master_e-resources-pro.css" crc="275308049" ref="resources-procedures"/>
+    <file name="nomq_preview_master_e-resources-pro.css" crc="442359237" ref="resources-procedures"/>
+    <file name="master_-----b-petrochemicals.css" crc="448639566" ref="petrochemicals"/>
+    <file name="nomq_preview_master_-----b-petrochemicals.css" crc="3955324373" ref="petrochemicals"/>
+    <file name="master_b-propane-butane.css" crc="4089586410" ref="propane-butane"/>
+    <file name="nomq_preview_master_b-propane-butane.css" crc="382908469" ref="propane-butane"/>
+    <file name="master_a-contact.css" crc="4187863886" ref="contact"/>
+    <file name="nomq_preview_master_a-contact.css" crc="3972988664" ref="contact"/>
+    <file name="master_a-mission.css" crc="4080308114" ref="our-mission"/>
+    <file name="nomq_preview_master_a-mission.css" crc="419037463" ref="our-mission"/>
+    <file name="master_-------b-mazut.css" crc="4041570880" ref="mazut"/>
+    <file name="nomq_preview_master_-------b-mazut.css" crc="4286814640" ref="mazut"/>
+    <file name="master_-b-base-oil.css" crc="213484108" ref="base-oil"/>
+    <file name="nomq_preview_master_-b-base-oil.css" crc="4140053189" ref="base-oil"/>
+    <file name="master_a-news.css" crc="97536280" ref="petroleum-market-news"/>
+    <file name="nomq_preview_master_a-news.css" crc="4028812931" ref="petroleum-market-news"/>
+    <file name="master_a-careers.css" crc="252419677" ref="careers"/>
+    <file name="nomq_preview_master_a-careers.css" crc="4166965732" ref="careers"/>
+    <file name="master_a-master.css" crc="3940505732" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="30519080" ref="index"/>
+    <file name="master_c-services-distrib.css" crc="4151038080" ref="distribution"/>
+    <file name="nomq_preview_master_c-services-distrib.css" crc="4046989235" ref="distribution"/>
+    <file name="master_e-resource-docs.css" crc="4150912865" ref="documentation"/>
+    <file name="nomq_preview_master_e-resource-docs.css" crc="4040314371" ref="documentation"/>
+    <file name="master_c-services-market.css" crc="3942141117" ref="services-marketing"/>
+    <file name="nomq_preview_master_c-services-market.css" crc="320118147" ref="services-marketing"/>
+    <file name="master_-----b-jet-fuel.css" crc="4148453897" ref="jet-fuel"/>
+    <file name="nomq_preview_master_-----b-jet-fuel.css" crc="3992930138" ref="jet-fuel"/>
+    <file name="master_b-crude-oil.css" crc="265788465" ref="crude-oil"/>
+    <file name="nomq_preview_master_b-crude-oil.css" crc="4114009960" ref="crude-oil"/>
+    <file name="master_d-global-s.css" crc="308061220" ref="global-suppliers"/>
+    <file name="nomq_preview_master_d-global-s.css" crc="4206259051" ref="global-suppliers"/>
+    <file name="master_b-petcoke.css" crc="73052774" ref="products-petroleum-coke"/>
+    <file name="nomq_preview_master_b-petcoke.css" crc="504876656" ref="products-petroleum-coke"/>
+    <file name="master_-----b-gasoline.css" crc="11714128" ref="gasoline:untitled-27"/>
+    <file name="nomq_preview_master_-----b-gasoline.css" crc="429143491" ref="gasoline:untitled-27"/>
+    <file name="master_-----b-bitumen.css" crc="3807567342" ref="bitumen"/>
+    <file name="nomq_preview_master_-----b-bitumen.css" crc="512058026" ref="bitumen"/>
+    <file name="master_c-services-trading.css" crc="3832756287" ref="trading-and-logistics"/>
+    <file name="nomq_preview_master_c-services-trading.css" crc="3787843883" ref="trading-and-logistics"/>
+    <file name="master_b-granulated-sulfur.css" crc="76723717" ref="granulated-sulfur"/>
+    <file name="nomq_preview_master_b-granulated-sulfur.css" crc="283703573" ref="granulated-sulfur"/>
+    <file name="trading-and-logistics.css" crc="3767110458" ref="trading-and-logistics"/>
+    <file name="nomq_trading-and-logistics.css" crc="4097933516" ref="trading-and-logistics"/>
+    <file name="iefonts_trading-and-logistics.css" crc="3824530138" ref="trading-and-logistics"/>
+    <file name="legal.css" crc="282589319" ref="legal"/>
+    <file name="products-petroleum-coke.css" crc="3885441648" ref="products-petroleum-coke"/>
+    <file name="nomq_products-petroleum-coke.css" crc="4187524880" ref="products-petroleum-coke"/>
+    <file name="iefonts_products-petroleum-coke.css" crc="3824530138" ref="products-petroleum-coke"/>
+    <file name="petrochemicals.css" crc="171920728" ref="petrochemicals"/>
+    <file name="nomq_petrochemicals.css" crc="4027489220" ref="petrochemicals"/>
+    <file name="iefonts_petrochemicals.css" crc="3824530138" ref="petrochemicals"/>
+    <file name="privacy-policy.css" crc="495403179" ref="privacy-policy"/>
+    <file name="about.css" crc="4120748654" ref="about"/>
+    <file name="nomq_about.css" crc="258979539" ref="about"/>
+    <file name="granulated-sulfur.css" crc="157061156" ref="granulated-sulfur"/>
+    <file name="nomq_granulated-sulfur.css" crc="3874231421" ref="granulated-sulfur"/>
+    <file name="iefonts_granulated-sulfur.css" crc="3824530138" ref="granulated-sulfur"/>
+    <file name="services-marketing.css" crc="423639908" ref="services-marketing"/>
+    <file name="nomq_services-marketing.css" crc="440313898" ref="services-marketing"/>
+    <file name="documentation.css" crc="240537670" ref="documentation"/>
+    <file name="nomq_documentation.css" crc="4139151602" ref="documentation"/>
+    <file name="distribution.css" crc="3763706546" ref="distribution"/>
+    <file name="nomq_distribution.css" crc="4236354951" ref="distribution"/>
+    <file name="iefonts_distribution.css" crc="3824530138" ref="distribution"/>
+    <file name="index.css" crc="3900471282" ref="index"/>
+    <file name="nomq_index.css" crc="3823854027" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="jet-fuel.css" crc="3761760253" ref="jet-fuel"/>
+    <file name="nomq_jet-fuel.css" crc="4132059593" ref="jet-fuel"/>
+    <file name="iefonts_jet-fuel.css" crc="3824530138" ref="jet-fuel"/>
+    <file name="propane-butane.css" crc="4016480164" ref="propane-butane"/>
+    <file name="nomq_propane-butane.css" crc="4146656096" ref="propane-butane"/>
+    <file name="iefonts_propane-butane.css" crc="3824530138" ref="propane-butane"/>
+    <file name="crude-oil.css" crc="535577818" ref="crude-oil"/>
+    <file name="nomq_crude-oil.css" crc="428936016" ref="crude-oil"/>
+    <file name="iefonts_crude-oil.css" crc="3824530138" ref="crude-oil"/>
+    <file name="our-mission.css" crc="3860279439" ref="our-mission"/>
+    <file name="nomq_our-mission.css" crc="4235436227" ref="our-mission"/>
+    <file name="gasoline.css" crc="3830525590" ref="gasoline"/>
+    <file name="nomq_gasoline.css" crc="3997723066" ref="gasoline"/>
+    <file name="iefonts_gasoline.css" crc="3824530138" ref="gasoline"/>
+    <file name="careers.css" crc="4158078815" ref="careers"/>
+    <file name="nomq_careers.css" crc="524839517" ref="careers"/>
+    <file name="resources-procedures.css" crc="217549713" ref="resources-procedures"/>
+    <file name="nomq_resources-procedures.css" crc="350623598" ref="resources-procedures"/>
+    <file name="iefonts_resources-procedures.css" crc="3824530138" ref="resources-procedures"/>
+    <file name="mazut.css" crc="4240838757" ref="mazut"/>
+    <file name="nomq_mazut.css" crc="129241110" ref="mazut"/>
+    <file name="iefonts_mazut.css" crc="3824530138" ref="mazut"/>
+    <file name="export-destinations.css" crc="4197426728" ref="export-destinations"/>
+    <file name="nomq_export-destinations.css" crc="4043821038" ref="export-destinations"/>
+    <file name="iefonts_export-destinations.css" crc="3824530138" ref="export-destinations"/>
+    <file name="global-suppliers.css" crc="3778318595" ref="global-suppliers"/>
+    <file name="nomq_global-suppliers.css" crc="68456633" ref="global-suppliers"/>
+    <file name="iefonts_global-suppliers.css" crc="3824530138" ref="global-suppliers"/>
+    <file name="contact.css" crc="3781600478" ref="contact"/>
+    <file name="nomq_contact.css" crc="3802921139" ref="contact"/>
+    <file name="base-oil.css" crc="4061727722" ref="base-oil"/>
+    <file name="nomq_base-oil.css" crc="457917253" ref="base-oil"/>
+    <file name="iefonts_base-oil.css" crc="3824530138" ref="base-oil"/>
+    <file name="bitumen.css" crc="3830589841" ref="bitumen"/>
+    <file name="nomq_bitumen.css" crc="514811874" ref="bitumen"/>
+    <file name="iefonts_bitumen.css" crc="3824530138" ref="bitumen"/>
+    <file name="petroleum-market-news.css" crc="3863772563" ref="petroleum-market-news"/>
+    <file name="nomq_petroleum-market-news.css" crc="4075056895" ref="petroleum-market-news"/>
+    <file name="untitled-27.css" crc="478681525" ref="untitled-27"/>
+    <file name="nomq_untitled-27.css" crc="382959963" ref="untitled-27"/>
+    <file name="iefonts_untitled-27.css" crc="3824530138" ref="untitled-27"/>
+    <file name="gas-oil-diesel.css" crc="3978931850" ref="gas-oil-diesel"/>
+    <file name="nomq_gas-oil-diesel.css" crc="4049237021" ref="gas-oil-diesel"/>
+    <file name="iefonts_gas-oil-diesel.css" crc="3824530138" ref="gas-oil-diesel"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:privacy-policy:legal:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27"/>
+    <file name="museutils.js" crc="17924269" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:privacy-policy:legal:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27"/>
+    <file name="whatinput.js" crc="86476730" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:privacy-policy:legal:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27"/>
+    <file name="museconfig.js" crc="144853533" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:privacy-policy:legal:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:privacy-policy:legal:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27"/>
+    <file name="webpro.js" crc="416662029" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27"/>
+    <file name="touchswipe.js" crc="432264157" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27"/>
+    <file name="require.js" crc="3861931657" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:privacy-policy:legal:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27"/>
+  </folder>
+  <folder name="images">
+    <file name="alilogo.svg" crc="3863253120" seo="true" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27">
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="our-mission" alt=""/>
+      <caption webpage="our-mission" alt=""/>
+      <caption webpage="our-mission" alt=""/>
+      <caption webpage="our-mission" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="petroleum-market-news" alt=""/>
+      <caption webpage="petroleum-market-news" alt=""/>
+      <caption webpage="petroleum-market-news" alt=""/>
+      <caption webpage="petroleum-market-news" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="untitled-27" alt=""/>
+      <caption webpage="untitled-27" alt=""/>
+      <caption webpage="untitled-27" alt=""/>
+      <caption webpage="untitled-27" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="resources-procedures" alt=""/>
+      <caption webpage="resources-procedures" alt=""/>
+      <caption webpage="resources-procedures" alt=""/>
+      <caption webpage="resources-procedures" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+    </file>
+    <file name="alilogo_poster_.png" crc="245001665" ref="index"/>
+    <file name="oilgamewall.jpg" crc="3802132446" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="map-u16437-3-fr.png" crc="4054572224" ref="index"/>
+    <file name="securities-swirl-1.svg" crc="4078341036" ref="index:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission"/>
+    <file name="securities-swirl-1_poster_u84059.png" crc="140212848" ref="index:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission"/>
+    <file name="map.png" crc="317102942" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission">
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="our-mission" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="petroleum-market-news" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="resources-procedures" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+    </file>
+    <file name="send-icon.svg" crc="410135730" seo="true" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27">
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="our-mission" alt=""/>
+      <caption webpage="our-mission" alt=""/>
+      <caption webpage="our-mission" alt=""/>
+      <caption webpage="our-mission" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="petroleum-market-news" alt=""/>
+      <caption webpage="petroleum-market-news" alt=""/>
+      <caption webpage="petroleum-market-news" alt=""/>
+      <caption webpage="petroleum-market-news" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="untitled-27" alt=""/>
+      <caption webpage="untitled-27" alt=""/>
+      <caption webpage="untitled-27" alt=""/>
+      <caption webpage="untitled-27" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="resources-procedures" alt=""/>
+      <caption webpage="resources-procedures" alt=""/>
+      <caption webpage="resources-procedures" alt=""/>
+      <caption webpage="resources-procedures" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+    </file>
+    <file name="send-icon_poster_.png" crc="3963099960" ref="index"/>
+    <file name="callme.svg" crc="4279179414" seo="true" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27">
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="our-mission" alt=""/>
+      <caption webpage="our-mission" alt=""/>
+      <caption webpage="our-mission" alt=""/>
+      <caption webpage="our-mission" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="petroleum-market-news" alt=""/>
+      <caption webpage="petroleum-market-news" alt=""/>
+      <caption webpage="petroleum-market-news" alt=""/>
+      <caption webpage="petroleum-market-news" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="untitled-27" alt=""/>
+      <caption webpage="untitled-27" alt=""/>
+      <caption webpage="untitled-27" alt=""/>
+      <caption webpage="untitled-27" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="resources-procedures" alt=""/>
+      <caption webpage="resources-procedures" alt=""/>
+      <caption webpage="resources-procedures" alt=""/>
+      <caption webpage="resources-procedures" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+    </file>
+    <file name="callme_poster_.png" crc="3814280132" ref="index"/>
+    <file name="menu2.svg" crc="4105581839" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission"/>
+    <file name="menu2_poster_u10718.png" crc="420694867" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission"/>
+    <file name="closemenu.svg" crc="535170645" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission"/>
+    <file name="closemenu_poster_u10726.png" crc="258274975" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission"/>
+    <file name="blank.gif" crc="4208392903" ref="index:products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:petroleum-market-news:contact:about:careers:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:resources-procedures:documentation:our-mission:untitled-27"/>
+    <file name="arrow-right.svg" crc="379114293" seo="true" ref="products-petroleum-coke:gasoline:gas-oil-diesel:jet-fuel:base-oil:petrochemicals:services-marketing:trading-and-logistics:distribution:global-suppliers:export-destinations:mazut:bitumen:granulated-sulfur:crude-oil:propane-butane:untitled-27">
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="untitled-27" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+    </file>
+    <file name="arrow-right_poster_.png" crc="4180293846" ref="products-petroleum-coke"/>
+    <file name="petroleum-coke-2.gif" crc="288975233" ref="products-petroleum-coke">
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="products-petroleum-coke" alt=""/>
+    </file>
+    <file name="steel-pet-coke.jpg" crc="201323199" ref="products-petroleum-coke">
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="products-petroleum-coke" alt=""/>
+      <caption webpage="products-petroleum-coke" alt=""/>
+    </file>
+    <file name="sec-lines.svg" crc="4078341036" ref="products-petroleum-coke"/>
+    <file name="sec-lines_poster_u209407.png" crc="140212848" ref="products-petroleum-coke"/>
+    <file name="gasoline-gif.gif" crc="4059109466" ref="gasoline">
+      <caption webpage="gasoline" alt=""/>
+    </file>
+    <file name="train-oil.gif" crc="187186699" ref="gasoline">
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+      <caption webpage="gasoline" alt=""/>
+    </file>
+    <file name="diesel-fuel-buy.jpg" crc="90434859" ref="gas-oil-diesel">
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+    </file>
+    <file name="pipeline-gasoil.gif" crc="4170730510" ref="gas-oil-diesel">
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+      <caption webpage="gas-oil-diesel" alt=""/>
+    </file>
+    <file name="jet-fuel-buy-now.gif" crc="459996292" ref="jet-fuel">
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+    </file>
+    <file name="jet-fuel.gif" crc="417267829" ref="jet-fuel">
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+      <caption webpage="jet-fuel" alt=""/>
+    </file>
+    <file name="base-oil-gif.jpg" crc="278051892" ref="base-oil">
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+    </file>
+    <file name="motor-oil-small.jpg" crc="491339883" ref="base-oil">
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+      <caption webpage="base-oil" alt=""/>
+    </file>
+    <file name="polypropylene-bg-cut.jpg" crc="383599198" ref="petrochemicals">
+      <caption webpage="petrochemicals" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+    </file>
+    <file name="polypropylene.gif" crc="403903090" ref="petrochemicals">
+      <caption webpage="petrochemicals" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+      <caption webpage="petrochemicals" alt=""/>
+    </file>
+    <file name="marketing-services.svg" crc="3840987379" ref="services-marketing"/>
+    <file name="marketing-services_poster_u283676.png" crc="3891884344" ref="services-marketing"/>
+    <file name="services-marketing-graph.svg" crc="4003338238" ref="services-marketing"/>
+    <file name="services-marketing-graph_poster_u283969.png" crc="217664812" ref="services-marketing"/>
+    <file name="services-portfolio.svg" crc="4002323313" seo="true" ref="services-marketing">
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+    </file>
+    <file name="services-portfolio_poster_.png" crc="3893403351" ref="services-marketing"/>
+    <file name="services-ine-chart-dolla.svg" crc="3952734670" ref="services-marketing"/>
+    <file name="services-ine-chart-dolla_poster_u284266.png" crc="24520736" ref="services-marketing"/>
+    <file name="services-dollar.svg" crc="162138003" seo="true" ref="services-marketing">
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+      <caption webpage="services-marketing" alt=""/>
+    </file>
+    <file name="services-dollar_poster_.png" crc="4130477300" ref="services-marketing"/>
+    <file name="trading.svg" crc="31500783" seo="true" ref="trading-and-logistics">
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+    </file>
+    <file name="trading_poster_.png" crc="3905948833" ref="trading-and-logistics"/>
+    <file name="cargo-gas-ship.svg" crc="4226945308" seo="true" ref="trading-and-logistics">
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+      <caption webpage="trading-and-logistics" alt=""/>
+    </file>
+    <file name="cargo-gas-ship_poster_.png" crc="71241751" ref="trading-and-logistics"/>
+    <file name="global-distribution.svg" crc="206057033" seo="true" ref="distribution">
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="distribution" alt=""/>
+      <caption webpage="distribution" alt=""/>
+    </file>
+    <file name="global-distribution_poster_.png" crc="3811892815" ref="distribution"/>
+    <file name="dot-path-pattern.png" crc="3903950223" ref="global-suppliers:export-destinations">
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+    </file>
+    <file name="world-map-done-svg.svg" crc="65878058" seo="true" ref="global-suppliers">
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+      <caption webpage="global-suppliers" alt=""/>
+    </file>
+    <file name="world-map-done-svg_poster_.png" crc="4014819844" ref="global-suppliers"/>
+    <file name="world-export-done-svg.svg" crc="3917569253" seo="true" ref="export-destinations">
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+      <caption webpage="export-destinations" alt=""/>
+    </file>
+    <file name="world-export-done-svg_poster_.png" crc="248465758" ref="export-destinations"/>
+    <file name="dotted line.svg" crc="27907464" ref="petroleum-market-news:contact:about:careers:resources-procedures:documentation:our-mission"/>
+    <file name="dotted line_poster_u92910.png" crc="295699967" ref="petroleum-market-news:contact:about:careers:resources-procedures:documentation:our-mission"/>
+    <file name="dotted line small.svg" crc="430871407" ref="petroleum-market-news:contact:about:careers:resources-procedures:documentation:our-mission"/>
+    <file name="dotted line small_poster_u93302.png" crc="3976375611" ref="petroleum-market-news:contact:about:careers:resources-procedures:documentation:our-mission"/>
+    <file name="mazut-100-2.jpg" crc="4025783097" ref="mazut">
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="mazut" alt=""/>
+    </file>
+    <file name="mazut-100.gif" crc="4270726500" ref="mazut">
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="mazut" alt=""/>
+      <caption webpage="mazut" alt=""/>
+    </file>
+    <file name="bituen-gif.gif" crc="303485208" ref="bitumen">
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+    </file>
+    <file name="bitumen.gif" crc="4289295458" ref="bitumen">
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+      <caption webpage="bitumen" alt=""/>
+    </file>
+    <file name="sulfur-granulated-buy.gif" crc="225818908" ref="granulated-sulfur">
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+    </file>
+    <file name="sulfur-ru.jpg" crc="357430008" ref="granulated-sulfur">
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+      <caption webpage="granulated-sulfur" alt=""/>
+    </file>
+    <file name="oil-tanker.gif" crc="57052396" ref="crude-oil">
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+    </file>
+    <file name="crude-oil.jpg" crc="4267076705" ref="crude-oil">
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+      <caption webpage="crude-oil" alt=""/>
+    </file>
+    <file name="propane-gif.gif" crc="236342904" ref="propane-butane">
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+    </file>
+    <file name="gaz-storage.gif" crc="79061" ref="propane-butane">
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+      <caption webpage="propane-butane" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3969092345" seo="true" mt="1495489619943" redirect="true"/>
+  <file name="products-petroleum-coke.html" crc="30494464" seo="true" mt="1495489619953" redirect="true"/>
+  <file name="gasoline.html" crc="4203584261" seo="true" mt="1495489619994" redirect="true"/>
+  <file name="gas-oil-diesel.html" crc="436461246" seo="true" mt="1495489619990" redirect="true"/>
+  <file name="jet-fuel.html" crc="227950505" seo="true" mt="1495489619999" redirect="true"/>
+  <file name="base-oil.html" crc="4056723129" seo="true" mt="1495489619984" redirect="true"/>
+  <file name="petrochemicals.html" crc="444610986" seo="true" mt="1495489619987" redirect="true"/>
+  <file name="services-marketing.html" crc="3819597022" seo="true" mt="1495550432019" redirect="true"/>
+  <file name="trading-and-logistics.html" crc="3776443926" seo="true" mt="1495490827459" redirect="true"/>
+  <file name="distribution.html" crc="251364830" seo="true" mt="1495490830747" redirect="true"/>
+  <file name="global-suppliers.html" crc="3895093313" seo="true" mt="1495489620019" redirect="true"/>
+  <file name="export-destinations.html" crc="417135711" seo="true" mt="1495489620023" redirect="true"/>
+  <file name="petroleum-market-news.html" crc="329585394" seo="true" mt="1495489620047" redirect="true"/>
+  <file name="contact.html" crc="4218210960" seo="true" mt="1495489620033" redirect="true"/>
+  <file name="about.html" crc="278418827" seo="true" mt="1495548546704" redirect="true"/>
+  <file name="privacy-policy.html" crc="125363635" seo="true" mt="1490106416974" redirect="false"/>
+  <file name="legal.html" crc="135051541" seo="true" mt="1491673914801" redirect="true"/>
+  <file name="careers.html" crc="3895144751" seo="true" mt="1495489620057" redirect="true"/>
+  <file name="mazut.html" crc="407655666" seo="true" mt="1495489619967" redirect="true"/>
+  <file name="bitumen.html" crc="513253488" seo="true" mt="1495489619976" redirect="true"/>
+  <file name="granulated-sulfur.html" crc="199174532" seo="true" mt="1495489619956" redirect="true"/>
+  <file name="crude-oil.html" crc="276668455" seo="true" mt="1495489619980" redirect="true"/>
+  <file name="propane-butane.html" crc="3804497363" seo="true" mt="1495489619964" redirect="true"/>
+  <file name="resources-procedures.html" crc="504936841" seo="true" mt="1495489620031" redirect="true"/>
+  <file name="documentation.html" crc="4104979742" seo="true" mt="1495489620026" redirect="true"/>
+  <file name="our-mission.html" crc="219917918" seo="true" mt="1495489620053" redirect="true"/>
+  <file name="untitled-27.html" crc="3926992713" seo="true" mt="1495489619994" redirect="true"/>
+</manifest>
